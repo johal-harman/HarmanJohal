@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="fd9bfcb3-0807-4f51-8aaa-484066ba1a15" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+>>>>>>> 1cfde58f38c2ac14d252b698c8e0340f995219b7
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +39,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$USER_HOME$/projects/HarmanJohal" />
+=======
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 1cfde58f38c2ac14d252b698c8e0340f995219b7
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -68,6 +77,7 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="786" y="122" key="FileChooserDialogImpl" timestamp="1585702682335">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -88,6 +98,32 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585702684683" />
+=======
+    <state x="409" y="32" key="#Main" timestamp="1585702732130">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="32" key="#Main/0.0.1366.728@0.0.1366.728" timestamp="1585702732130" />
+    <state x="786" y="122" key="FileChooserDialogImpl" timestamp="1585273692022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="786" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585273692022" />
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1585704307674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585704307674" />
+    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1585704307673">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585704307673" />
+    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1585704307673">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585704307673" />
+    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1585704307674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585704307674" />
+>>>>>>> 1cfde58f38c2ac14d252b698c8e0340f995219b7
     <state x="323" y="0" key="SettingsEditor" timestamp="1585273700877">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
