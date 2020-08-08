@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd9bfcb3-0807-4f51-8aaa-484066ba1a15" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,17 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1ZgpumLxi3ANUKkB8w90icS7GsP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -70,17 +63,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="409" y="32" key="#Main" timestamp="1585702732130">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1596914351006">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="409" y="32" key="#Main/0.0.1366.728@0.0.1366.728" timestamp="1585702732130" />
-    <state x="786" y="122" key="FileChooserDialogImpl" timestamp="1585273692022">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="786" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585273692022" />
-    <state x="323" y="0" key="SettingsEditor" timestamp="1585273700877">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="323" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585273700877" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1596914351006" />
   </component>
 </project>
